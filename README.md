@@ -1,1 +1,2 @@
 # Fourier-Series-Visualization
+This project utilizes Claude to program in Python language. It visualizes a user-defined signal consisting of three sinusoidal components. In the signal setup UI, user can set each component's amplitude and sinusoidal signal type (sine or cosine), and period. Once the setup is finished, user can click the "compute Fourier series" button and system will generate plots visualizing the sine and consine components of the signal and display corresponding Fourier series coeffient magnitude spectrum.    
